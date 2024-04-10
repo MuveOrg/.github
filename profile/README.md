@@ -18,7 +18,7 @@ Twilio Proxy app for Ring Central Integration of Muve.
 ### [aws-batch-job-apps](https://github.com/MuveOrg/aws-batch-job-apps)
 Implementation of AWS Batch jobs for Muve workflows. (Language: NodeJs, Python and GoLang)
 
-### (muve-common-packages)[https://github.com/MuveOrg/muve-common-packages]
+### [muve-common-packages](https://github.com/MuveOrg/muve-common-packages)
 Common private development packages implemented by the tech team to share in multiple code bases owned by Muve.
 
 ### [quote-tracker-server](https://github.com/MuveOrg/quote-tracker-server)
